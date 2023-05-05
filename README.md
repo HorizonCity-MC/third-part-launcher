@@ -1,8 +1,20 @@
-# ![NAME_PROJECT_HERE logo]() [NAME_PROJECT_HERE]
-Template for creating a repository
+# Liste des launchers supporté par HorizonCity.
+Ici vous trouverez tout les launchers supporté par le serveur HorizonCity. 
 
-## Installation
-Dumbie text
+⚠️ **Il est vivement recommandé de contribuer à ce projet pour pouvoir prendre en charge votre launcher !** ⚠️ Voir le fichier : CONTRIBUTE.md
 
-## Contribute
-Dumbie text
+## ✅ Launchers supportés
+- HorizonLauncher
+- MultiMC
+
+## 🛠️ Launchers bientôt supportés
+N/A
+
+## ❌ Launchers non supportés pour l'instant
+- Minecraft Launcher
+- Technic Launcher
+- FTB Launcher
+- ATLauncher
+- CurseForge Launcher
+- Bad Lion Client Launcher
+- Lunar Client Launcher
