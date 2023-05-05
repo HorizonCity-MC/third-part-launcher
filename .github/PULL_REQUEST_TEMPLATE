@@ -1,21 +1,24 @@
+<!--
+🚨🚨🚨⚠️⚠️⚠️ __**VEUILLEZ LIRE CECI AVANT TOUTE ENVOIE !**__⚠️⚠️⚠️🚨🚨🚨
+🚨🚨🚨⚠️⚠️⚠️ __**ASSUREZ VOUS DE BIEN SUPPRIMER VOS FICHIERS DE CONFIGURATION AVANT TOUT !**__⚠️⚠️⚠️🚨🚨🚨
+🚨🚨🚨⚠️⚠️⚠️ __**L'ÉQUIPE V38ARMAGEDDON ET HORIZONCITY NE SERONT AUCUNEMENT RESPONSABLE EN CAS DE LEAK D'INFORMATIONS CONFIDENTIELS !**__⚠️⚠️⚠️🚨🚨🚨
+-->
+
 ## Description
+Si vous plaît, veuillez expliquer pourquoi ce changement doît être appliqué.
 
-Please, describe why this change need to be pulled on [NAME_PROJECT_HERE].
-
-## Utility
-
-How this change gonna be useful?
+## Utilité
+Commence ce changement va être utile ?
 
 ## Tests
+Cochez les tests que vous avez effectué.
+<!--Mettez un X dans les crochets pour pouvoir cocher-->
+- [ ] Le modpack peut se lancer.
+- [ ] Le launcher peut se connecter automatiquement après le lancement de Minecraft.
 
-Please check the tests that you have made.
-<!--Mark a X in the brackets to check-->
-- [ ] Test 1
-- [ ] Test 2
-
-## Checklist:
-<!--Mark a X in the brackets to check-->
-- [ ] My code follows the style guidelines of this project
-- [ ] My code respect the code of conduct
-- [ ] I have performed a self-review of my own code
-- [ ] My changes generate no new warnings or errors
+## Checklist
+<!--Mettez un X dans les crochets pour pouvoir cocher-->
+- [ ] Mon changement respecte les directives de style de ce projet
+- [ ] Mon changement respecte le code de conduite
+- [ ] J'ai effectué une auto-évaluation de mon propre changement
+- [ ] Mes modifications ne génèrent pas de nouveaux avertissements ou erreurs
